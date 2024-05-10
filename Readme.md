@@ -1,7 +1,7 @@
 
 # Heart Attack Analysis Prediction
 
-#### Heart Attack Analysis &amp; Prediction model created for DataTalks.Club mlzoomcamp course midterm project
+#### Heart Attack Analysis &amp; Prediction model 
 <p align="center">
 <img src="HeartImage.gif" width="500" height="400" />
 </p>
