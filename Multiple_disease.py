@@ -11,8 +11,8 @@ import base64
 from streamlit_option_menu import option_menu
 
 # Loading the saved models
-diabetes_model = pickle.load(open('C:/Users/hp/OneDrive/Desktop/ML_project/trainedmodel2.sav', 'rb'))
-heartdisease_model = pickle.load(open('C:/Users/hp/OneDrive/Desktop/ML_project/trainedmodel1.sav', 'rb'))
+diabetes_model = pickle.load(open('trainedmodel2.sav', 'rb'))
+heartdisease_model = pickle.load(open('trainedmodel1.sav', 'rb'))
 
 # Sidebar for navigation
 with st.sidebar:
